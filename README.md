@@ -17,6 +17,9 @@ The project uses the following AWS services:
 
 * [**Amazon SNS**](https://docs.aws.amazon.com/sns/) – sends email/SMS alerts to the user
 
+  <img width="832" height="360" alt="Architecture " src="https://github.com/user-attachments/assets/3fc64dab-a613-48f6-94ef-c24f5bfd1d7b" />
+
+
 **Steps** 
 
 Following are the steps involved
